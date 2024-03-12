@@ -4,8 +4,8 @@
 	"key":"drpy_js_豆瓣",
 	"name":"🚖主站1💢[搜索A]",
 	"type":3,
-	"api":"https://agit.ai/leexuben/h/raw/branch/master/js/drpy2.min.js",
-	"ext":"https://agit.ai/leexuben/h/raw/branch/master/js/drpy.js",
+	"api":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/drpy2.min.js",
+	"ext":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/drpy.js",
 	"searchable":1,
 	"quickSearch":0,
 	"changeable":0
@@ -15,7 +15,7 @@
              "name": "📺小兵推荐主站🇹",
              "type": 1,
              "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-             "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fix1.jar",
+             "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fix1.jar",
              "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
              "searchable": 1,
              "quickSearch": 1
@@ -30,14 +30,14 @@
 	 "searchable":1,
 	 "quickSearch":1,
 	 "changeable":1,
-	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
 	 },
     {
 	"key":"drpy_js_磁力熊搜索",
 	"name":"🚖主站1💢[搜索B]",
 	"type":3,
-	"api":"https://agit.ai/leexuben/h/raw/branch/master/js/drpy2.min.js",
-	"ext":"https://agit.ai/leexuben/h/raw/branch/master/js/cilixiong.js",
+	"api":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/drpy2.min.js",
+	"ext":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/cilixiong.js",
 	"searchable":0,
 	"quickSearch":0,
 	"changeable":1
@@ -50,7 +50,7 @@
 	"changeable":1,
 	"quickSearch":0,
 	"filterable":0,
-	"api":"https://agit.ai/leexuben/h/raw/branch/master/js/lf_search3_min.js"
+	"api":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/lf_search3_min.js"
 	},
 		{
             "key": "黑狐",
@@ -121,8 +121,8 @@
 			"searchable": 1,
 			"changeable": 1,
 			"timeout": 60,
-			"jar":"https://agit.ai/leexuben/h/raw/branch/master/jar/磁力+netflav.jar",
-			"ext":"https://agit.ai/leexuben/h/raw/branch/master/js/tokentemplate.json"
+			"jar":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/磁力+netflav.jar",
+			"ext":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/tokentemplate.json"
 		},
 		    {
       "key": "T4-安博",
@@ -152,17 +152,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "dr_TVBOX看荐片",
       "name": "主推荐🚖主站5💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/荐片.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/荐片.js"
     },
     {
       "key": "csp_Kunyu77",
@@ -181,8 +181,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/DYXS.json",
-	   "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/yv.jar"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/DYXS.json",
+	   "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/yv.jar"
     },
     {
       "key": "加菲猫影视",
@@ -192,8 +192,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/KFMAO.json",
-	   "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/yv.jar"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/KFMAO.json",
+	   "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/yv.jar"
     },
     {
       "key": "泰泰",
@@ -204,7 +204,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/",
-	  "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/xc14.jar"
+	  "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/xc14.jar"
     },
     {
       "key": "原创",
@@ -214,7 +214,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	   "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/yvod.jar"
+	   "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/yvod.jar"
     },
     {
       "key": "csp_QQ1",
@@ -224,7 +224,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/TX.jar"
+	  "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/TX.jar"
     },
     {
       "key": "爱奇艺",
@@ -234,7 +234,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/TX.jar"
+	  "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/TX.jar"
     },
     {
       "key": "csp_MGTV",
@@ -244,57 +244,57 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/TX.jar"
+	  "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/TX.jar"
     },
     {
       "key": "dr_TVBOX看369",
       "name": "🚖主站14💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/369影视.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/369影视.js"
     },
     {
       "key": "dr_TVBOX看低端",
       "name": "🚖主站15💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/低端影视.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/低端影视.js"
     },
     {
       "key": "dr_TVBOX看NY",
       "name": "🚖主站16💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/NY影院.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/NY影院.js"
     },
     {
       "key": "dr_TVBOX看中国人",
       "name": "🚖主站17💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/中国人.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/中国人.js"
     },
     {
       "key": "dr_TVBOX看玄天",
       "name": "🚖主站18💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/玄天.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/玄天.js"
     },
     {
       "key": "SNzy",
@@ -304,7 +304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/yvod.jar",
+	  "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/yvod.jar",
       "categories": [
         "4K电影",
         "动作片",
@@ -358,91 +358,91 @@
       "key": "dr_TVBOX看动漫",
       "name": "🚖主站20💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/哔哩影视.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/哔哩影视.js"
     },
     {
       "key": "dr_TVBOX看NYA",
       "name": "🚖主站21💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/NyaFun.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/NyaFun.js"
     },
     {
       "key": "dr_TVBOX看白白",
       "name": "🚖主站22💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/素白白.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/素白白.js"
     },
     {
       "key": "dr_TVBOX看农民",
       "name": "🚖主站23💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/农民影视.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/农民影视.js"
     },
     {
       "key": "dr_TVBOX看胖虎",
       "name": "🚖主站24💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/胖虎.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/胖虎.js"
     },
     {
       "key": "dr_TVBOX看时光",
       "name": "🚖主站25💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/时光影视.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/时光影视.js"
     },
     {
       "key": "dr_TVBOX看网飞",
       "name": "🚖主站26💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/网飞.TV.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/网飞.TV.js"
     },
     {
       "key": "dr_TVBOX看跟剧",
       "name": "🚖主站27💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/我爱跟剧.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/我爱跟剧.js"
     },
     {
       "key": "jar_TVBOX看Auete",
       "name": "🚖主站28💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/Auete.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/Auete.js"
     },
     {
       "key": "开心自营",
@@ -483,7 +483,7 @@
 		"api":"csp_XBPQ",
 		"searchable":1,
 		"filterable":1,
-		"jar":"https://agit.ai/leexuben/h/raw/branch/master/jar/xpq.jar",
+		"jar":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/xpq.jar",
         "quickSearch":1,
 		"ext":{
      "分类url":"https://www.a8ys.cc/vodtypehtml/{cateId}/",
@@ -498,31 +498,31 @@
       "key": "dr_码上看18哈",
       "name": "🚖主站31💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/18哈.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/18哈.js"
     },
     {
       "key": "dr_码上看乐鱼",
       "name": "🚖主站32💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/乐鱼.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/乐鱼.js"
     },
 	  {
       "key": "dr_码上看大师兄",
       "name": "🚖主站33💢",
       "type": 3,
-      "api": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/merge.min.js",
+      "api": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/merge.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上/大师兄.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/大师兄.js"
     },
 	  {
       "key": "csp_Voflix",
@@ -542,7 +542,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "Xinsj",
@@ -553,7 +553,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.80yy3.com/",
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "厂长",
@@ -564,7 +564,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.czzy77.com/",
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "77",
@@ -574,7 +574,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "DiDuan",
@@ -584,7 +584,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "萌米",
@@ -595,7 +595,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "追剧",
@@ -606,7 +606,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=",
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "毛驴",
@@ -617,7 +617,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.maolvys.com/",
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "一起看 ",
@@ -627,7 +627,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "csp_Bttoo",
@@ -637,7 +637,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "Lib",
@@ -648,7 +648,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.libvio.pw/",
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "Auete",
@@ -659,7 +659,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://auete.pro/",
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
     {
       "key": "SP33",
@@ -669,7 +669,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  	 "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/fan.txt"
+	  	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
     },
 		{
       "key": "酷影视",
@@ -975,7 +975,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/Bili.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/Bili.json"
     },
 	       {
       "key": "Yinyuetai",
@@ -984,7 +984,7 @@
       "api": "csp_Yinyuetai",
       "searchable": 1,
       "changeable": 0,
-	  "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/ktv.jar"
+	  "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/ktv.jar"
     },
     {
       "key": "Iktv",
@@ -993,7 +993,7 @@
       "api": "csp_Iktv",
       "searchable": 1,
       "changeable": 0,
-	  "jar": "https://agit.ai/leexuben/h/raw/branch/master/jar/ktv.jar"
+	  "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/ktv.jar"
     },
     {
       "key": "Aid",
@@ -1030,7 +1030,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/310直播.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/310直播.js"
     },
     {
       "key": "企鹅体育xp",
@@ -1040,7 +1040,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/企鹅直播.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/企鹅直播.json"
     },
     {
       "key": "酷奇js",
@@ -1050,7 +1050,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/酷奇MV.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/酷奇MV.js"
     },
     {
       "key": "斗鱼js",
@@ -1060,7 +1060,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/斗鱼直播.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/斗鱼直播.js"
     },
     {
       "key": "聚短视频js",
@@ -1070,7 +1070,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/短视频.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/短视频.js"
     },
     {
       "key": "有声小说js",
@@ -1080,7 +1080,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/有声小说吧.js"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/有声小说吧.js"
     },
     {
       "key": "幼小衔接",
@@ -1090,7 +1090,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/%e5%b9%bc%e5%b0%8f%e8%a1%94%e6%8e%a5.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/幼小衔接.json"
     },
     {
       "key": "幼儿启蒙",
@@ -1100,7 +1100,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/js/%e5%b9%bc%e5%84%bf%e5%90%af%e8%92%99.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/幼儿启蒙.json"
     },
     {
       "key": "少儿",
@@ -1110,7 +1110,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓猫/少儿教育.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/少儿教育.json"
     },
     {
       "key": "小学",
@@ -1120,7 +1120,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓猫/小学课堂.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/小学课堂.json"
     },
     {
       "key": "初中",
@@ -1130,7 +1130,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓猫/初中课堂.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/初中课堂.json"
     },
     {
       "key": "高中",
@@ -1140,7 +1140,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓猫/高中课堂.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/高中课堂.json"
     },
     {
       "key": "小灯塔",
@@ -1170,7 +1170,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/小灯塔地理.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/小灯塔地理.json"
     },
     {
       "key": "小灯塔国学",
@@ -1180,7 +1180,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/小灯塔国学.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/小灯塔国学.json"
     },
     {
       "key": "小灯塔人文",
@@ -1190,7 +1190,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/小灯塔人文.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/小灯塔人文.json"
     },
     {
       "key": "儿童拼音",
@@ -1200,7 +1200,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/儿童拼音.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/儿童拼音.json"
     },
     {
       "key": "儿童识字",
@@ -1210,7 +1210,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/儿童识字.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/儿童识字.json"
     },
     {
       "key": "儿童英语",
@@ -1220,7 +1220,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/儿童英语.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/儿童英语.json"
     },
     {
       "key": "儿童硬笔",
@@ -1230,7 +1230,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/儿童硬笔.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/儿童硬笔.json"
     },
     {
       "key": "儿童思维",
@@ -1240,7 +1240,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/儿童思维.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/儿童思维.json"
     },
     {
       "key": "儿童口才",
@@ -1250,7 +1250,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/儿童口才.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/儿童口才.json"
     },
     {
       "key": "儿童编程",
@@ -1260,7 +1260,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/儿童编程.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/儿童编程.json"
     },
     {
       "key": "儿童武术",
@@ -1270,7 +1270,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/儿童武术.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/儿童武术.json"
     },
     {
       "key": "兴趣培养",
@@ -1280,7 +1280,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/兴趣培养.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/兴趣培养.json"
     },
     {
       "key": "益智动画",
@@ -1290,7 +1290,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/益智动画.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/益智动画.json"
     },
     {
       "key": "小学语文",
@@ -1300,7 +1300,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/小学语文.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/小学语文.json"
     },
     {
       "key": "小学数学",
@@ -1310,7 +1310,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/小学数学.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/小学数学.json"
     },
     {
       "key": "小学英语",
@@ -1320,7 +1320,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/小学英语.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/小学英语.json"
     },
     {
       "key": "小学教育",
@@ -1330,7 +1330,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leexuben/h/raw/branch/master/sites/码上👓学/小学教育.json"
+      "ext": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/小学教育.json"
     }
   ],
   "parses": [
@@ -4275,5 +4275,5 @@
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}
 ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://agit.ai/leexuben/h/raw/branch/master/jar/custom_spider.jar;md5;64110BAEB9974690F7B374A8B2586AC5"
+  "spider": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/custom_spider.jar;md5;64110BAEB9974690F7B374A8B2586AC5"
 }
