@@ -4275,5 +4275,7 @@
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}
 ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+"lives": [{"name": "live", "type": 0, "url":"https://leexuben.github.io/iptv.html", "playerType": 1, "ua": "okhttp/3.12.13", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"}],
+ 
   "spider": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/custom_spider.jar;md5;64110BAEB9974690F7B374A8B2586AC5"
 }
