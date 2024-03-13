@@ -1,14 +1,14 @@
 {
   "sites": [
-	{
-	"key":"drpy_js_豆瓣",
-	"name":"🚖主站1💢[搜索A]",
+    {
+	"key":"drpy_js_磁力熊搜索",
+	"name":"🚖主站1💢[搜索]",
 	"type":3,
 	"api":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/drpy2.min.js",
-	"ext":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/drpy.js",
-	"searchable":1,
+	"ext":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/cilixiong.js",
+	"searchable":0,
 	"quickSearch":0,
-	"changeable":0
+	"changeable":1
 	},
 	 {
              "key": "K影",
@@ -32,16 +32,6 @@
 	 "changeable":1,
 	 "jar": "https://raw.gitmirror.com/leexuben/leexuben.github.io/main/jar/fan.txt"
 	 },
-    {
-	"key":"drpy_js_磁力熊搜索",
-	"name":"🚖主站1💢[搜索B]",
-	"type":3,
-	"api":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/drpy2.min.js",
-	"ext":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/cilixiong.js",
-	"searchable":0,
-	"quickSearch":0,
-	"changeable":1
-	},
 		{
             "key": "黑狐",
             "name": "🇹┃黑狐官┃秒播",
