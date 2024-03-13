@@ -42,16 +42,6 @@
 	"quickSearch":0,
 	"changeable":1
 	},
-    {
-	"key":"lf_js_search",
-	"name":"🚖主站1💢[搜索C]",
-	"type":3,
-	"searchable":0,
-	"changeable":1,
-	"quickSearch":0,
-	"filterable":0,
-	"api":"https://raw.gitmirror.com/leexuben/leexuben.github.io/main/js/lf_search3_min.js"
-	},
 		{
             "key": "黑狐",
             "name": "🇹┃黑狐官┃秒播",
