@@ -35,6 +35,7 @@ CCTV13,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv13.m3u8
 CCTV14,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV15,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 CCTV17,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+CCTV央视台球,http://115.153.77.84:6004/udp/239.252.219.80:5140$(江西赣州1)
 
 CCTV1,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV2,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
