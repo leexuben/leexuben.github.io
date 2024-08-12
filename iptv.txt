@@ -2,7 +2,7 @@
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-CCTV央视台球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV央视台球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172403.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172402.m3u8#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172401.m3u8
 🇨🇳丨央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
