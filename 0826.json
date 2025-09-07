@@ -9,6 +9,15 @@
       "quickSearch": 0,
       "filterable": 0
     },
+       {
+      "key": "巧技二",
+      "name": "巧技┃仅搜索",
+      "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/leexuben/maotv/refs/heads/master/jar/fix250711.jar",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+    },
     {
       "key": "贱贱",
       "name": "🐭荐片┃P2P",
@@ -28,10 +37,23 @@
       "filterable": 0,
       "ext": "https://www.xb6v.com/"
     },
+  
+      {
+      "key": "csp_xlys",
+      "name": "修罗┃无搜索",
+      "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/leexuben/maotv/refs/heads/master/jar/fix250711.jar",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
+    },
     {
       "key":"低端影视",
       "name":"🌀低端",
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt",
+      "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/leexuben/maotv/refs/heads/master/jar/f1.txt",
       "type":3,
       "api":"csp_Ddrk",
       "playerType":"2",
@@ -57,6 +79,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+     {
+      "key": "零度影视",
+      "name": "零度｜影视",
+      "type": 3,
+      "api": "./lib/零度影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "抠搜",
