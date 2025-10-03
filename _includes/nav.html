@@ -13,20 +13,24 @@
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div id="huxblog_navbar">
-            <div class="navbar-collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="{{ /tvbos.json }}/">影视接口</a>
-                    </li>
-                    {% for page in site.pages %}{% if page.title %}
-                    <li>
-                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                    </li>
-                    {% endif %}{% endfor %}
-                </ul>
-            </div>
-        </div>
+      <div id="huxblog_navbar">
+    <div class="navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+    <li>
+        <a href=" ">主页</a >
+    </li>
+    <!-- 新增的TVBox配置链接 -->
+    <li>
+        <a href="{{ '/tvbox.json' | prepend: site.baseurl }}">影视接口</a >
+    </li>
+    {% for page in site.pages %}{% if page.title %}
+    <li>
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a >
+    </li>
+    {% endif %}{% endfor %}
+</ul>
+    </div>
+      </div>
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
